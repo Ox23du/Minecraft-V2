@@ -1,30 +1,31 @@
-# Minecraft clone prototype
+# Protótipo de clone do Minecraft
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+*Sincronizado automaticamente com suas implantações do [v0.app](https://v0.app)*
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/jakeatgalileoteam/v0-minecraft-clone-prototype)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/aKaVQTE4FrM)
+[![Implantado no Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/jakeatgalileoteam/v0-minecraft-clone-prototype)
+[![Criado com v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/aKaVQTE4FrM)
 
-## Overview
+## Visão geral
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+Este repositório permanecerá sincronizado com seus chats implantados no [v0.app](https://v0.app).
 
-## Deployment
+Quaisquer alterações feitas no seu aplicativo implantado serão enviadas automaticamente para este repositório a partir de [v0.app](https://v0.app).
 
-Your project is live at:
+## Implantação
+
+Seu projeto está online em:
 
 **[https://vercel.com/jakeatgalileoteam/v0-minecraft-clone-prototype](https://vercel.com/jakeatgalileoteam/v0-minecraft-clone-prototype)**
 
-## Build your app
+## Desenvolva seu aplicativo
 
-Continue building your app on:
+Continue desenvolvendo seu aplicativo em:
 
 **[https://v0.app/chat/projects/aKaVQTE4FrM](https://v0.app/chat/projects/aKaVQTE4FrM)**
 
-## How It Works
+## Como funciona
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+1. Crie e modifique seu projeto usando [v0.app](https://v0.app)
+2. Implante seus chats a partir da interface v0
+3. As alterações são enviadas automaticamente para este repositório
+4. O Vercel implanta a versão mais recente deste repositório
