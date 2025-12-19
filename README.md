@@ -1,31 +1,134 @@
-# Protótipo de clone do Minecraft
-
-*Sincronizado automaticamente com suas implantações do [v0.app](https://v0.app)*
-
-[![Implantado no Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/jakeatgalileoteam/v0-minecraft-clone-prototype)
-[![Criado com v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/aKaVQTE4FrM)
+# Protótipo de Clone do Minecraft
 
 ## Visão geral
 
-Este repositório permanecerá sincronizado com seus chats implantados no [v0.app](https://v0.app).
+Este projeto é um **protótipo de clone do Minecraft**, desenvolvido com foco em aprendizado e experimentação. Ele demonstra conceitos básicos como:
 
-Quaisquer alterações feitas no seu aplicativo implantado serão enviadas automaticamente para este repositório a partir de [v0.app](https://v0.app).
+* Mundo em blocos
+* Renderização 3D
+* Movimentação do jogador
+* Interação com o ambiente
 
-## Implantação
+O objetivo não é replicar o jogo original por completo, mas servir como base educacional para estudos em desenvolvimento de jogos.
 
-Seu projeto está online em:
+---
 
-**[https://vercel.com/jakeatgalileoteam/v0-minecraft-clone-prototype](https://vercel.com/jakeatgalileoteam/v0-minecraft-clone-prototype)**
+## Tecnologias utilizadas
 
-## Desenvolva seu aplicativo
+* Node.js
+* Framework front-end moderno (ex: React / Next.js)
+* WebGL / Three.js (ou equivalente, se aplicável)
+* TypeScript / JavaScript
 
-Continue desenvolvendo seu aplicativo em:
+*(Ajuste esta lista conforme o stack real do projeto)*
 
-**[https://v0.app/chat/projects/aKaVQTE4FrM](https://v0.app/chat/projects/aKaVQTE4FrM)**
+---
 
-## Como funciona
+## Pré-requisitos
 
-1. Crie e modifique seu projeto usando [v0.app](https://v0.app)
-2. Implante seus chats a partir da interface v0
-3. As alterações são enviadas automaticamente para este repositório
-4. O Vercel implanta a versão mais recente deste repositório
+Antes de começar, você precisa ter instalado em sua máquina:
+
+* **Node.js** (versão 18 ou superior recomendada)
+* **npm** ou **yarn**
+* Git
+
+Verifique se está tudo instalado:
+
+```bash
+node -v
+npm -v
+# ou
+yarn -v
+```
+
+---
+
+## Como rodar o projeto localmente
+
+### 1. Clonar o repositório
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
+```
+
+### 2. Instalar as dependências
+
+Com npm:
+
+```bash
+npm install
+```
+
+Ou com yarn:
+
+```bash
+yarn install
+```
+
+### 3. Rodar em modo desenvolvimento
+
+```bash
+npm run dev
+# ou
+yarn dev
+```
+
+Após iniciar, o projeto estará disponível em:
+
+```
+http://localhost:3000
+```
+
+---
+
+## Build para produção
+
+Para gerar a versão otimizada:
+
+```bash
+npm run build
+npm start
+```
+
+Ou com yarn:
+
+```bash
+yarn build
+yarn start
+```
+
+---
+
+## Estrutura básica do projeto
+
+```text
+src/
+ ├── components/   # Componentes reutilizáveis
+ ├── game/         # Lógica do jogo (mundo, blocos, player)
+ ├── pages/        # Páginas da aplicação
+ ├── styles/       # Estilos globais
+ └── utils/        # Funções auxiliares
+```
+
+---
+
+## Próximos passos (ideias)
+
+* Sistema de chunks
+* Inventário
+* Colisão avançada
+* Texturas personalizadas
+* Salvamento de mundo
+
+---
+
+## Aviso legal
+
+Este projeto é apenas para fins educacionais. **Minecraft é uma marca registrada da Mojang Studios**, e este repositório não possui qualquer afiliação oficial.
+
+---
+
+## Licença
+
+Defina a licença conforme sua necessidade (MIT, Apache 2.0, etc).
