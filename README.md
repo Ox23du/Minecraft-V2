@@ -17,7 +17,7 @@ O objetivo não é replicar o jogo original por completo, mas servir como base e
 
 Com base na estrutura do repositório e nas linguagens detectadas:
 
-* **TypeScript** (principal – ~96%)
+* **TypeScript**
 * **JavaScript**
 * **CSS**
 * **Next.js** (App Router)
