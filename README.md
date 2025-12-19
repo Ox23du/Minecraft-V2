@@ -15,12 +15,16 @@ O objetivo não é replicar o jogo original por completo, mas servir como base e
 
 ## Tecnologias utilizadas
 
-* Node.js
-* Framework front-end moderno (ex: React / Next.js)
-* WebGL / Three.js (ou equivalente, se aplicável)
-* TypeScript / JavaScript
+Com base na estrutura do repositório e nas linguagens detectadas:
 
-*(Ajuste esta lista conforme o stack real do projeto)*
+* **TypeScript** (principal – ~96%)
+* **JavaScript**
+* **CSS**
+* **Next.js** (App Router)
+
+Repositório oficial do projeto:
+
+🔗 [https://github.com/Ox23du/Minecraft-V2](https://github.com/Ox23du/Minecraft-V2)
 
 ---
 
@@ -96,19 +100,6 @@ Ou com yarn:
 ```bash
 yarn build
 yarn start
-```
-
----
-
-## Estrutura básica do projeto
-
-```text
-src/
- ├── components/   # Componentes reutilizáveis
- ├── game/         # Lógica do jogo (mundo, blocos, player)
- ├── pages/        # Páginas da aplicação
- ├── styles/       # Estilos globais
- └── utils/        # Funções auxiliares
 ```
 
 ---
