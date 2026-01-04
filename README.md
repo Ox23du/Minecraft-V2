@@ -16,9 +16,8 @@ O objetivo não é replicar o jogo original por completo, mas servir como base e
 ## Linguagem utilizadas
 
 * **TypeScript**
-* **Java**
+* **JavaScript**
 * **CSS**
-* **Next.js** 
 
 Repositório oficial do projeto:
 
