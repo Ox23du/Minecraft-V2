@@ -13,7 +13,7 @@ O objetivo não é replicar o jogo original por completo, mas servir como base e
 
 ---
 
-## Tecnologias utilizadas
+## Linguagem utilizadas
 
 * **TypeScript**
 * **Java**
